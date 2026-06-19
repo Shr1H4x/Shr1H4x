@@ -52,7 +52,7 @@ Drop a star if you like what you see ⭐ | More about me: [shrijesh.com.np](http
   <a href="https://discord.com/shri_hax" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord">
   </a>
-  <a href="https://tryhackme.com/p/ShriHax" target="_blank" rel="noopener noreferrer">
+  <a href="https://tryhackme.com/p/Shr1H4x" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="TryHackMe">
   </a>
   <a href="https://www.instagram.com/ssh_shrijesh" target="_blank" rel="noopener noreferrer">
