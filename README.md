@@ -26,7 +26,7 @@
 
 ```bash
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║  OPERATIVE  ›  Shr1H4x  ·  Shrijesh Pokharel  ·  @Shr1H4x               ║
+║  OPERATIVE  ›  Shr1H4x  ·  Shrijesh Pokharel  ·  @Shr1H4x                 ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║  Domains     ›  Network Security · Cryptography · System Tools            ║
 ║  Research    ›  Encryption · Exploit Dev · OSINT & Recon Automation       ║
@@ -343,11 +343,7 @@
 <br>
 
 <div align="center">
-  <sub><strong>Breaking things ethically since day one.</strong></sub>
+  <sub><strong>sudo make me a false positive</strong></sub>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1925,50:0a0f1a,100:0d1925&section=footer&text=SHRIJESH%20POKHAREL&fontSize=22&fontColor=00d4ff&animation=twinkling" width="100%" alt="Footer" />
-</div>
